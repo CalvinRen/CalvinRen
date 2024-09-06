@@ -1,12 +1,5 @@
 ### Hi there 👋 This is Calvin Ren
 
-- 🔭 I’m currently pursuing my Bachelor degree of Computer Science at Chongqing Unvierstiy
-- 🌱 I’m currently a Visiting Student(UCInspire) at University of California Irvine
-- 👯 I’m applying for Graduate program at North America.
-- 💬 Ask me about everything
-- 📫 How to reach me: qixuanr1@uci.edu / calvin123@cqu.edu.cn
-
-
 <table>
  <tr>
    <td><a href="https://github.com/anuraghazra/github-readme-stats">
